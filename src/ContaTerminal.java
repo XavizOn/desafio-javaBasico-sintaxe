@@ -13,9 +13,7 @@ public class ContaTerminal {
         this.numeroAgencia = numeroAgencia;
         this.numeroConta = numeroConta;
         this.saldoEmConta = saldoEmConta;
-    }
-
-    
+    }    
     
     public static void main(String[] args) throws Exception {
         
